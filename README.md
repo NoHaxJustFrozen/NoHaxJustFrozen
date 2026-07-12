@@ -100,7 +100,7 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>lumirise.org.tr</h3>
+      <h3><a href="https://lumirise.org.tr" target="_blank" rel="noopener noreferrer">Lumirise</a></h3>
       <p>Mevcut kurumsal araç kiralama sistemlerini referans alarak geliştirdiğim, mimari ve performans olarak çok daha gelişmiş, modern bir rent a car platformu.</p>
     </td>
     <td width="33%" valign="top">
